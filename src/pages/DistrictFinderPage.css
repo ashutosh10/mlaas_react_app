@@ -1,0 +1,20 @@
+.MainContainer {
+  width: 60%;
+  height: 60%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.ResultContainer {
+    display: none;
+}
+
+.ResultCard {
+    margin-top: 1rem;
+    display: flex;
+    align-content: center;
+}

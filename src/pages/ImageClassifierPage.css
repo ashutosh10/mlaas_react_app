@@ -1,0 +1,39 @@
+.MainContainer {
+    width: 60%;
+    height: 60%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+  }
+  
+  .ResultContainer {
+      display: none;
+  }
+  
+  .ResultCard {
+      margin-top: 1rem;
+      display: flex;
+      align-content: center;
+  }
+
+  .ImageContainer {
+      display: flex;
+      margin-top: 2rem;
+      align-content: center;
+      justify-content: center;
+      display: none;
+  }
+
+  .Buttons {
+      display: flex;
+      align-content: left;
+      align-self: flex-start;
+  }
+
+  .ResetButton {
+      margin-left: 2rem;
+  }
+  
